@@ -6,7 +6,6 @@ using Core.Entities;
 using Core.Interfaces;
 using Core.Specifications;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging.Configuration;
 
 namespace API.Controllers
 {
